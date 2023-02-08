@@ -1,4 +1,4 @@
-h1 align="center"> Cards Drinking Game </h1> <br>
+<h1 align="center"> Cards Drinking Game </h1> <br>
 <p align="center">
   Simple training app that show you a lot of cards that you can use as a dinking game.
 </p>
